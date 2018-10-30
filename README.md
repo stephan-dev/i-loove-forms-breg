@@ -1,24 +1,14 @@
-# README
+# Formulaire en Rails
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+lien : https://i-loove-forms-breg.herokuapp.com/ 
 
-Things you may want to cover:
+En production : le formulaire for_for
 
-* Ruby version
+déplacé à la racine car créait des erreurs : les deux précédents formulaires : HTML et form_tag ("brouillon_form.html.erb")
 
-* System dependencies
+peer programming avec Amroise VP @Ambroiseau
 
-* Configuration
 
-* Database creation
+* Ruby version 5.2.1
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* Gem : 2.5.1
